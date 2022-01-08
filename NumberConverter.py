@@ -1,4 +1,3 @@
-# Jessica Zhu, 501015391
 # Decimal, Binary, Octal, Hexadecimal converter
 # Can convert a number from any number system listed above to a different number system listed above
 
